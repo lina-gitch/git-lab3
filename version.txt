@@ -1,5 +1,1 @@
- HEAD
-feature b updated
-
-Feature A 
- origin/main
+Feature A and Feature B
